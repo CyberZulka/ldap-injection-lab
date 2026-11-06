@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Terminal recordings may contain credentials
+terminal-session.log
+
+# Python test/cache files
+.pytest_cache/
+
+

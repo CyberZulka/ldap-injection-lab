@@ -1,0 +1,20 @@
+dn: uid=zulka,ou=People,dc=cyberzulka,dc=lab
+objectClass: inetOrgPerson
+uid: zulka
+cn: Zulka
+sn: Admin
+mail: zulka@cyberzulka.lab
+
+dn: uid=amina,ou=People,dc=cyberzulka,dc=lab
+objectClass: inetOrgPerson
+uid: amina
+cn: Amina
+sn: Mensah
+mail: amina@cyberzulka.lab
+
+dn: uid=kwame,ou=People,dc=cyberzulka,dc=lab
+objectClass: inetOrgPerson
+uid: kwame
+cn: Kwame
+sn: Asare
+mail: kwame@cyberzulka.lab

@@ -1,0 +1,12 @@
+dn: cn=IT,ou=Groups,dc=cyberzulka,dc=lab
+objectClass: top
+objectClass: groupOfNames
+cn: IT
+member: uid=zulka,ou=People,dc=cyberzulka,dc=lab
+member: uid=amina,ou=People,dc=cyberzulka,dc=lab
+
+dn: cn=Security,ou=Groups,dc=cyberzulka,dc=lab
+objectClass: top
+objectClass: groupOfNames
+cn: Security
+member: uid=kwame,ou=People,dc=cyberzulka,dc=lab

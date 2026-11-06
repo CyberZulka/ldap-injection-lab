@@ -1,0 +1,7 @@
+dn: ou=People,dc=cyberzulka,dc=lab
+objectClass: organizationalUnit
+ou: People
+
+dn: ou=Groups,dc=cyberzulka,dc=lab
+objectClass: organizationalUnit
+ou: Groups
